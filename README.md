@@ -1,5 +1,7 @@
 # 武纺大阳光校区羽毛球馆场地预订自动化
 
+# 注意：此存储库不再维护，请查看 [CWU7](https://github.com/xixu-me/CWU7/blob/main/README.zh-CN.md)。
+
 本仓库提供了填写[表单《纺大阳光校区羽毛球馆场地预订》](https://www.chaojibiaodan.com/form/1d1u2Nk8)的自动化脚本。
 
 ## 运行环境
