@@ -43,6 +43,6 @@ pip install pyperclip
 
 ## 许可证
 
-版权所有 &copy; [Xi Xu](https://xi-xu.me)。保留所有权利。
+版权所有 &copy; [Xi Xu](https://xi-xu.me)
 
 根据 [GPL-3.0](LICENSE) 许可证授权。
